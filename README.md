@@ -17,14 +17,14 @@ samples, guidance on mobile development, and a full API reference.
 
 # App Screenshots
 
-### On Screen
+### Basics Widgets Screen
 ![Basic Widgets Screen](images/screen_shots/basicwidgetsandlayouts.PNG)
 
-### Profile Screen
+### Images Screen
 ![images Screen](images/screen_shots/bwal3.PNG)
 
-### Home Screen
+### Aligned text Widget Screen
 ![aligned text widget Screen](images/screen_shots/basicwidgetandlayout1.PNG)
 
-### Profile Screen
+### Container Widget Screen
 ![container widget Screen](images/screen_shots/bwal2.PNG)
