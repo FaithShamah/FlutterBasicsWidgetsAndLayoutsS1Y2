@@ -21,10 +21,10 @@ samples, guidance on mobile development, and a full API reference.
 ![Basic Widgets Screen](images/screen_shots/basicwidgetsandlayouts.PNG)
 
 ### Profile Screen
-![images Screen](images\screen_shots\bwal3.PNG)
+![images Screen](images/screen_shots/bwal3.PNG)
 
 ### Home Screen
-![aligned text widget Screen](images\screen_shots\basicwidgetandlayout1.PNG)
+![aligned text widget Screen](images/screen_shots/basicwidgetandlayout1.PNG)
 
 ### Profile Screen
-![container widget Screen](images\screen_shots\bwal2.PNG)
+![container widget Screen](images/screen_shots/bwal2.PNG)
