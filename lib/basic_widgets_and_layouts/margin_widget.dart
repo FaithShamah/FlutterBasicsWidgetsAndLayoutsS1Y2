@@ -6,6 +6,6 @@ class MarginWidget extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return Container(margin: EdgeInsets.all(20), child: Text('This is a text with margin'));
+    return Container(margin: EdgeInsets.all(80), child: Text('This is a text with margin'));
   }
 }

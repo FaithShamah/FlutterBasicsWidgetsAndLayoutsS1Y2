@@ -9,10 +9,9 @@ class PaddingApproach2Widget extends StatelessWidget {
       appBar: AppBar(title: const Text('Margin Text')),
       body: Center(
         child: Container(
-          margin: const EdgeInsets.all(20),
-          padding: const EdgeInsets.all(12),
+          padding: const EdgeInsets.all(100),
           color: Colors.teal.shade50,
-          child: const Text('Container with margin and padding'),
+          child: const Text('Container with padding'),
         ),
       ),
     );
